@@ -71,7 +71,7 @@ revenue falls within the 95% prediction interval — validating model reliabilit
 |---|---|
 | `analysis.py` | Full Python regression + visualization code |
 | `top-500-movies.csv` | Dataset (Kaggle: Top 500 Movies by Production Budget) |
-| `SQL_presentation.pdf` | Executive presentation deck |
+| `BA Final Presentation.pdf` | Executive presentation deck |
 
 ---
 
